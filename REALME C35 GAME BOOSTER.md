@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sepok03
+- 👋 Hi, I’m @paulSepok17
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - 🚀 GAME SPACE APP NO LAGG
 - 🎁 PROMOTION REALME C35
 <!---
-Sepok03/Sepok03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sepok17/Sepok09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
